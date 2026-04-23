@@ -1,6 +1,6 @@
-# Family Feud AR (Firebase Realtime)
+# Maratb (Firebase Realtime)
 
-Simple bilingual (English/Arabic) Family Feud web app with host/team live sync using Firebase Realtime Database.
+Simple bilingual (English/Arabic) Maratb web app with host/team live sync using Firebase Realtime Database.
 
 ## What is included
 
